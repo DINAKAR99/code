@@ -1,0 +1,4 @@
+my:
+  greeting: updated twice world from specific yml config-client
+  list:
+    values: one,two,three

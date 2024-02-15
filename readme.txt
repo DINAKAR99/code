@@ -1,0 +1,1 @@
+initialsie git in config repo if working locally with microservices
